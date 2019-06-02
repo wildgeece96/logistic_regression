@@ -1,6 +1,11 @@
 # logistic_regression
 demo code for logistic regression
 
+## requirements 
+```
+matplotlib
+numpy
+```
 ## usage  
 
 ```python 
